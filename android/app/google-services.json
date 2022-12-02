@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "456988502790",
-    "project_id": "jobuapp-96b99",
-    "storage_bucket": "jobuapp-96b99.appspot.com"
+    "project_number": "309163322544",
+    "project_id": "jobu-993ae",
+    "storage_bucket": "jobu-993ae.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:456988502790:android:6b8f491088729d1591cc87",
+        "mobilesdk_app_id": "1:309163322544:android:afcafcb46f93f6a32e1f75",
         "android_client_info": {
           "package_name": "com.example.jobuapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "456988502790-q8e783qfqk1hr343ui51pgt306tjlffr.apps.googleusercontent.com",
+          "client_id": "309163322544-u1qntdnm1ej7c52pieq255m6q5co9p24.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA4vfkPcEHtubEbU5jaJux6DMAPYS0KX_k"
+          "current_key": "AIzaSyBpsFDvRho9tAVJ2qJfKvrJisG-DrTvqwY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "456988502790-q8e783qfqk1hr343ui51pgt306tjlffr.apps.googleusercontent.com",
+              "client_id": "309163322544-u1qntdnm1ej7c52pieq255m6q5co9p24.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

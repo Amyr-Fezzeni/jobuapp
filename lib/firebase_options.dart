@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCO0U6wkO0Zcwb7ueWGMgApkVOU8QjAVI0',
-    appId: '1:456988502790:web:6f7add804154fa4191cc87',
-    messagingSenderId: '456988502790',
-    projectId: 'jobuapp-96b99',
-    authDomain: 'jobuapp-96b99.firebaseapp.com',
-    storageBucket: 'jobuapp-96b99.appspot.com',
-    measurementId: 'G-YMSNQJJDKF',
+    apiKey: 'AIzaSyAdfpzdsd_24ARVHZt__muG8Z5RV6XPTBs',
+    appId: '1:309163322544:web:4963319938161f182e1f75',
+    messagingSenderId: '309163322544',
+    projectId: 'jobu-993ae',
+    authDomain: 'jobu-993ae.firebaseapp.com',
+    storageBucket: 'jobu-993ae.appspot.com',
+    measurementId: 'G-RD24P1339D',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA4vfkPcEHtubEbU5jaJux6DMAPYS0KX_k',
-    appId: '1:456988502790:android:6b8f491088729d1591cc87',
-    messagingSenderId: '456988502790',
-    projectId: 'jobuapp-96b99',
-    storageBucket: 'jobuapp-96b99.appspot.com',
+    apiKey: 'AIzaSyBpsFDvRho9tAVJ2qJfKvrJisG-DrTvqwY',
+    appId: '1:309163322544:android:afcafcb46f93f6a32e1f75',
+    messagingSenderId: '309163322544',
+    projectId: 'jobu-993ae',
+    storageBucket: 'jobu-993ae.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDoQNGCtOSg8qPMwadSbUvBL5dOhiHeFgY',
-    appId: '1:456988502790:ios:4cad5b76cef4c36a91cc87',
-    messagingSenderId: '456988502790',
-    projectId: 'jobuapp-96b99',
-    storageBucket: 'jobuapp-96b99.appspot.com',
-    iosClientId: '456988502790-vcisvhesn6sgqid7fgj7nkkh1juq80od.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDs8SS0Fwqo21ZJDT3SQLhu8z50a2WHTdU',
+    appId: '1:309163322544:ios:7dc432b347e43ddb2e1f75',
+    messagingSenderId: '309163322544',
+    projectId: 'jobu-993ae',
+    storageBucket: 'jobu-993ae.appspot.com',
+    iosClientId: '309163322544-2kti42j82hos34j6ff8ov3lie5s3udk9.apps.googleusercontent.com',
     iosBundleId: 'com.example.jobuapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDoQNGCtOSg8qPMwadSbUvBL5dOhiHeFgY',
-    appId: '1:456988502790:ios:4cad5b76cef4c36a91cc87',
-    messagingSenderId: '456988502790',
-    projectId: 'jobuapp-96b99',
-    storageBucket: 'jobuapp-96b99.appspot.com',
-    iosClientId: '456988502790-vcisvhesn6sgqid7fgj7nkkh1juq80od.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDs8SS0Fwqo21ZJDT3SQLhu8z50a2WHTdU',
+    appId: '1:309163322544:ios:7dc432b347e43ddb2e1f75',
+    messagingSenderId: '309163322544',
+    projectId: 'jobu-993ae',
+    storageBucket: 'jobu-993ae.appspot.com',
+    iosClientId: '309163322544-2kti42j82hos34j6ff8ov3lie5s3udk9.apps.googleusercontent.com',
     iosBundleId: 'com.example.jobuapp',
   );
 }
